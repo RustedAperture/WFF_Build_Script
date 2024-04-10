@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ID_LABEL_NAME">name</string>
+    <string name="app_name">name</string>
+    <string name="watchface_title">name</string>
+</resources>
